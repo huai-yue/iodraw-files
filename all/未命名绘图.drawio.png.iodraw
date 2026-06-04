@@ -132,8 +132,10 @@
         <mxCell id="xwDHodVK1k3C7tORUNDU-40" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481" y="3097" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xwDHodVK1k3C7tORUNDU-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xwDHodVK1k3C7tORUNDU-41" target="xwDHodVK1k3C7tORUNDU-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xwDHodVK1k3C7tORUNDU-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xwDHodVK1k3C7tORUNDU-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1905" y="3112" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xwDHodVK1k3C7tORUNDU-41" value="维修或更换&#xa;PTC加热器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1655" y="3079" width="140" height="66" as="geometry" />
@@ -343,9 +345,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xwDHodVK1k3C7tORUNDU-74" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1905" y="3082" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
